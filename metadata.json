@@ -1,0 +1,7 @@
+{
+  "name": "Myanmar AI FB Post Generator",
+  "description": "An AI-powered content generator for Myanmar social media marketers, supporting both text topics and image analysis to create engaging Facebook posts.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
